@@ -1,0 +1,8 @@
+{
+  "name": "GATE Rank Predictor Clone",
+  "description": "A high-fidelity clone of the Made Easy GATE Rank Predictor, featuring stream selection, session choice, and response sheet analysis simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
